@@ -1,4 +1,4 @@
-<h1>👩‍💻 Lavaniyah Logeswaran | Software Engineer | Full Stack Developer | Mobile & Web Specialist</h1>
+<h1>👩‍💻 Lavaniyah Logeswaran | Software Engineer | AI/ML Enthusiast</h1>
 
 As a results-driven Software Engineer with 3+ years of experience, I specialize in full stack web and mobile application development. Proficient in **Flutter**, **React**, and **Laravel**, I am dedicated to building scalable, high-performance solutions and staying up-to-date with emerging technologies.
 
@@ -10,9 +10,8 @@ I'm currently pursuing an **MSc in Advanced Software Engineering** at the **Univ
 
 - 🔭 Currently working on **Nablok** — a social media platform at Ability Range (N3S Pvt Ltd), Australia
 - 🌱 Currently learning **cloud architecture, microservices, and advanced DevOps practices**
-- 👯 Open to collaborating on **Flutter, React, or Full Stack web projects**
+- 👯 Open to collaborating on **Full Stack web & Mobile projects**
 - 🤔 Looking for help with **contributing to large-scale open source projects**
-- 💬 Ask me about **Flutter, Laravel, React, MERN Stack**
 - 📫 How to reach me: **lavaniyah31081999@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I'm a chess champion and I solve problems both on the board and in code! ♟️**
