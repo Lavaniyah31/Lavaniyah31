@@ -1,5 +1,9 @@
 <h1 align="center">👩‍💻 Hi, I'm Lavaniyah Logeswaran</h1>
 <h3 align="center">Software Engineer | Flutter • React • Laravel • MERN Stack</h3>
+<p align="center">
+  <i>Results-driven Software Engineer with 3+ years of experience building scalable web & mobile applications.</i><br/>
+  <i>MSc Advanced Software Engineering @ University of Westminster, UK 🇬🇧 | IEEE Published Researcher 📄</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lavaniyah-logeswaran">
