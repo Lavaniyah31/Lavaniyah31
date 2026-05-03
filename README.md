@@ -1,31 +1,21 @@
-<h1 align="center">👩‍💻 Hi, I'm Lavaniyah Logeswaran</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Mobile & Web Application </h3>
-<p align="center">
-  <i>Results-driven Software Engineer with 3+ years of experience building scalable web & mobile applications.</i><br/>
-  <i>MSc Advanced Software Engineering @ University of Westminster, UK 🇬🇧 | IEEE Published Researcher 📄</i>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lavaniyah-logeswaran">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lavaniyah31081999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Lavaniyah31">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<h1>👩‍💻 Lavaniyah Logeswaran | Software Engineer | Full Stack Developer | Mobile & Web Specialist</h1>
+
+As a results-driven Software Engineer with 3+ years of experience, I specialize in full stack web and mobile application development. Proficient in **Flutter**, **React**, and **Laravel**, I am dedicated to building scalable, high-performance solutions and staying up-to-date with emerging technologies.
+
+I'm currently pursuing an **MSc in Advanced Software Engineering** at the **University of Westminster, UK**, with a focus on scalable architecture and modern software practices. I actively contribute to real-world projects and am always eager to learn and grow in the tech industry.
 
 ---
 
-- 🔭 I'm currently working on **Nablok** — a social media platform at Ability Range (N3S Pvt Ltd), Australia
-- 🌱 I'm currently learning **cloud architecture, microservices, and advanced DevOps practices**
-- 👯 I'm looking to collaborate on **open source Flutter or React projects**
-- 🤔 I'm looking for help with **contributing to large-scale open source projects**
-- 💬 Ask me about **Flutter, Laravel, React, MERN Stack, or NLP**
+### 🚀 About Me
+
+- 🔭 Currently working on **Nablok** — a social media platform at Ability Range (N3S Pvt Ltd), Australia
+- 🌱 Currently learning **cloud architecture, microservices, and advanced DevOps practices**
+- 👯 Open to collaborating on **Flutter, React, or Full Stack web projects**
+- 🤔 Looking for help with **contributing to large-scale open source projects**
+- 💬 Ask me about **Flutter, Laravel, React, MERN Stack**
 - 📫 How to reach me: **lavaniyah31081999@gmail.com**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **I'm a published IEEE researcher and a chess champion! ♟️**
+- ⚡ Fun fact: **I'm a chess champion and I solve problems both on the board and in code! ♟️**
 
 ---
 
@@ -52,9 +42,9 @@
 
 ---
 
-### 📫 Connect with me
+### 🌐 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lavaniyah-logeswaran">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
